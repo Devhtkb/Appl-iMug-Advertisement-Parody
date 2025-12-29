@@ -2,7 +2,7 @@
 
 A personal project focused on **skill acquisition** and high-fidelity production. This project was conceptualized, modeled, and rendered in two weeks.
 
-> **Note:** Original voicelines were removed due to licensing/permissions.
+> **Note:** Original music and voicelines were removed due to licensing/permissions.
 
 ---
 
@@ -27,3 +27,4 @@ A personal project focused on **skill acquisition** and high-fidelity production
     * `Captions.blend`: Caption timing and alignment.
     * `FinalVideo.blend`: Final assembly of clips, music, and subtitles.
 * **/Final**: The complete project in MP4 format.
+
