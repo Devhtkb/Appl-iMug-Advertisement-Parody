@@ -15,8 +15,8 @@ A personal project focused on **skill development** and high-fidelity production
 * **Autodesk Maya:** Animation, Rendering
 * **Blender:** Modeling, Texturing, Composition, Subtitles
 * **Audacity:** Music, Voicelines
-* **gimp:** Textures
-* **bonjourr extension:** Internal display textures
+* **Gimp:** Textures
+* **Bonjourr extension:** Internal display textures
 
 ---
 
@@ -27,5 +27,6 @@ A personal project focused on **skill development** and high-fidelity production
     * `Captions.blend`: Caption timing and alignment.
     * `FinalVideo.blend`: Final assembly of clips, music, and subtitles.
 * **/Final**: The complete project in MP4 format.
+
 
 
