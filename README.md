@@ -23,10 +23,11 @@ A personal project focused on **skill development** and high-fidelity production
 ## Project structure
 * **/Clips**: Contains individual Maya project files and their corresponding MP4 renders.
 * **/Textures**: All iMug variants and the display asset.
-* **/composition**: 
+* **/Composition**: 
     * `Captions.blend`: Caption timing and alignment.
     * `FinalVideo.blend`: Final assembly of clips, music, and subtitles.
 * **/Final**: The complete project in MP4 format.
+
 
 
 
